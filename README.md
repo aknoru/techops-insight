@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TechOps Insight — IT Operations Analytics Platform
 
 A portfolio-ready IT operations analytics application using Python, SQL, PostgreSQL and Streamlit.
