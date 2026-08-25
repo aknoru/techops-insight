@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TechOps Insight — IT Operations Analytics Platform
 
 A portfolio-ready IT operations analytics application using Python, SQL, PostgreSQL and Streamlit.
@@ -50,3 +51,6 @@ techops-insight/
 ```
 
 Synthetic records are generated locally; no proprietary or personal data is included.
+=======
+# techops-insight
+>>>>>>> a041ec749cf50be9d480f8e4736371285b7b06cc
